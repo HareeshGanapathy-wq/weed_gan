@@ -1,0 +1,6 @@
+{
+  "name": "WEED.AI - Weed Analytics, Remedies & Training Hub",
+  "description": "Smart precision weed detection, density mapping, targeted agronomic remedies, training image dataset database, and AI voice copilot.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
